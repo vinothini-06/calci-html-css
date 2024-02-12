@@ -1,0 +1,1 @@
+The Simple Calculator is a basic web application designed to perform arithmetic calculations. It allows users to perform addition, subtraction, multiplication, and division operations. The calculator features a clean and intuitive user interface, making it easy for users to input numbers and operators and view the results.
